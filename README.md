@@ -1,5 +1,5 @@
 ## Hi there 
-**belugazeroday/belugazeroday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**belugazeroday/belugazeroday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # :dizzy: About Me:
 :seedling:I'm still learning<br>:computer:cyber security stan<br>:snake:I love python<br>:male-technologist:Linux lover and  user<br>:heavy_plus_sign: Data annotator too<br>
 ## :globe_with_meridians: Socials:
