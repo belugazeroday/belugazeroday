@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+release/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Electron builder cache
+.webpack/
+app.asar
+
+# AI model cache (auto-downloaded, can be large)
+.cache/
+models/
+*.onnx
+
+# Testing
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+*.pem
+.vercel
